@@ -25,7 +25,7 @@ const Sidebar = () => {
               <Timeline className='sidebarIcon'/> Analytics
             </li>
             <li className="sidebarListItem">
-              <LineStyle/> Sales
+              <TrendingUp/> Sales
             </li>
             
             
